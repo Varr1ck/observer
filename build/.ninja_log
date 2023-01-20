@@ -1,0 +1,13 @@
+# ninja log v5
+11	879	6959068877276750	CMakeFiles/observer.dir/src/main.cpp.obj	650d1cb4e7b907fc
+887	1024	6959068878682118	observer.exe	efa901b0e5d718f
+5	1022	6959066498752641	CMakeFiles/observer.dir/src/StatusMonitor.cpp.obj	2c75acaf688715bd
+14	887	6959068877356776	CMakeFiles/observer.dir/src/BackendService.cpp.obj	8cd71e8970cc74b9
+16	905	6959071356853420	CMakeFiles/observer.dir/src/BackendService.cpp.obj	8cd71e8970cc74b9
+10	888	6959072275712817	CMakeFiles/observer.dir/src/BackendService.cpp.obj	8cd71e8970cc74b9
+16	894	6959072811506037	CMakeFiles/observer.dir/src/BackendService.cpp.obj	8cd71e8970cc74b9
+14	1011	6959072812651352	CMakeFiles/observer.dir/src/StatusMonitor.cpp.obj	2c75acaf688715bd
+5	1054	6959073358234565	CMakeFiles/observer.dir/src/main.cpp.obj	650d1cb4e7b907fc
+1054	1199	6959073359649952	observer.exe	efa901b0e5d718f
+13	1059	6959073657818083	CMakeFiles/observer.dir/src/main.cpp.obj	650d1cb4e7b907fc
+1059	1201	6959073659198469	observer.exe	efa901b0e5d718f

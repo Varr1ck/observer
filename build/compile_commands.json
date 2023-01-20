@@ -1,0 +1,17 @@
+[
+{
+  "directory": "C:/Users/schwe/Documents/Repos/observer/build",
+  "command": "C:\\ProgramData\\chocolatey\\bin\\g++.exe -IC:/Users/schwe/Documents/Repos/observer/include -g -o CMakeFiles\\observer.dir\\src\\main.cpp.obj -c C:\\Users\\schwe\\Documents\\Repos\\observer\\src\\main.cpp",
+  "file": "C:\\Users\\schwe\\Documents\\Repos\\observer\\src\\main.cpp"
+},
+{
+  "directory": "C:/Users/schwe/Documents/Repos/observer/build",
+  "command": "C:\\ProgramData\\chocolatey\\bin\\g++.exe -IC:/Users/schwe/Documents/Repos/observer/include -g -o CMakeFiles\\observer.dir\\src\\StatusMonitor.cpp.obj -c C:\\Users\\schwe\\Documents\\Repos\\observer\\src\\StatusMonitor.cpp",
+  "file": "C:\\Users\\schwe\\Documents\\Repos\\observer\\src\\StatusMonitor.cpp"
+},
+{
+  "directory": "C:/Users/schwe/Documents/Repos/observer/build",
+  "command": "C:\\ProgramData\\chocolatey\\bin\\g++.exe -IC:/Users/schwe/Documents/Repos/observer/include -g -o CMakeFiles\\observer.dir\\src\\BackendService.cpp.obj -c C:\\Users\\schwe\\Documents\\Repos\\observer\\src\\BackendService.cpp",
+  "file": "C:\\Users\\schwe\\Documents\\Repos\\observer\\src\\BackendService.cpp"
+}
+]
